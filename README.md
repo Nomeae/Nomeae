@@ -1,4 +1,4 @@
-<p align="center"> <img src="lag-train.gif" />
+<p align="center"> <img src="momoka.gif" />
 </p>
 
 ```
